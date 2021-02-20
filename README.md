@@ -14,5 +14,5 @@
 
 💖 Enjoy!
 
-"A good programmer knows how to code in every language. Sadly there are no good programers here."
-~ me in a conversation with https://github.com/bandithedoge.
+[i]"A good programmer knows how to code in every language. Sadly there are no good programers here."
+~ me in a conversation with https://github.com/bandithedoge.[/i]
