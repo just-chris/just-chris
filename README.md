@@ -8,7 +8,7 @@
 
 ⏰ I'm very aware of my code so I won't post anything not worth your time here.
 
-💬 You can reach me on discord -> Nathanael#6084. (I speak English, Polish and German. Im actively learning Spanish and Hungarian.)
+💬 You can reach me on discord -> Nathanael#6084. 
 
 🌐 C++ is my second love.
 
